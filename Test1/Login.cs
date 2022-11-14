@@ -19,7 +19,7 @@ namespace Test1
             // For test
             // feature bien1
             // bien 2
-
+            //Hai cho an cut
             driver.Url = "https://the-internet.herokuapp.com/login";
             //Enter username and password
             driver.FindElement(By.Id("username")).SendKeys("tomsmith");
